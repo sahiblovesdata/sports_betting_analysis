@@ -1,4 +1,4 @@
-# Sports Betting Analysis
+# FanDuel Sports Betting Analysis
 
 ## **Overview**
 

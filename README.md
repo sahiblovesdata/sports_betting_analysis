@@ -18,4 +18,7 @@ The end goal is to surface data-driven opportunities for cross-selling customers
 - SQL (DuckDB)
 - Excel (Visualizations)
 
+<img width="1117" height="617" alt="image" src="https://github.com/user-attachments/assets/4e9e3f1f-e3e7-4338-acc7-28425ab0f2c0" />
+
+
 
